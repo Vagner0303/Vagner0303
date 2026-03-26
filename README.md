@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  My name is <b>Vagner</b>, I'm 18 years old and I'm from Brazil 🇧🇷  
+-My name is <b>Vagner</b>, I'm 18 years old and I'm from Brazil 🇧🇷  
   
-  I'm currently a Systems Development student at Senac São Leopoldo.
+-I'm currently a Systems Development student at Senac São Leopoldo.
 </p>
 
 ---
