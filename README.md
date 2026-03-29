@@ -8,7 +8,7 @@ My name is <b>Vagner</b>, I'm 18 years old and I'm from Brazil. I'm currently a 
 
 ## 🚀 About me
 
-📚 I'm currently learning: TypeScript, Java, MySQL and Front-end development ...<br>🎯 Goal: Become a Full Stack Developer and work in the tech industry ...<br>🌎 I'm from Brazil and I like technology ...<br>🎵 I like music and rap culture ...<br>💡 I enjoy solving problems and learning new things every day
+📚 I'm currently learning: TypeScript, Java, MySQL and Front-end development ...<br>🎯 Goal: Become a Full Stack Developer and work in the tech industry ...<br>🌎 I'm from Brazil and I like technology ...<br>💡 I enjoy solving problems and learning new things every day
 
 ---
 
